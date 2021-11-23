@@ -23,7 +23,7 @@
 
 </head>
 
-<body  $font-family-Prompt:Prompt; >
+<body >
 
     <div class="container">
         {{-- navbar with home and create menu --}}

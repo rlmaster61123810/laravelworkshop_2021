@@ -29,4 +29,8 @@ class HomeController extends Controller
         ];
         return view('hello', $data);
     }
+    public function adminHome()
+    {
+        return view('adminHome');
+    }
 }
